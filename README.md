@@ -90,6 +90,9 @@ AIがどのような応答や情報を生成するかに影響を与える重要
 
 # さあ、はじめてみましょう！
 [Chat-GPTをとりあえず触ってみたい人](Chat-GPT/chatgpt.md)
+
 [Perplexityをとりあえず触ってみたい人](perplexity/perplexity.md)
+
 [Bing AIアシスタントをとりあえず触ってみたい人](Bing_AI/bingai.md)
+
 [Bardはコンテンツ用意できてないですごめんなさい](https://bard.google.com/?hl=ja)
