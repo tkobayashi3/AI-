@@ -20,7 +20,8 @@ Googleアカウントで登録できるので、登録しましょう。
 WPA2とWPA3の違いを日本語で教えてください。可能であれば表形式での対比もお願いします。
 
 ↓出力結果
-https://www.perplexity.ai/search/14fda64e-e3f3-4963-aa1e-27614854e624?s=c
+
+https://www.perplexity.ai/search/14fda64e-e3f3-4963-aa1e-27614854e624?s=c{:target="_blank"}
 
 # 画面説明
 
